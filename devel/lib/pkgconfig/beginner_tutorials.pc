@@ -1,0 +1,8 @@
+prefix=/home/hxt/catkin_my/cat_ws/devel
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hxt/catkin_my/cat_ws/devel/lib 
+Requires: 
